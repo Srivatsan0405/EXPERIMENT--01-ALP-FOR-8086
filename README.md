@@ -1,9 +1,11 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+Name :Srivastan V
 
 
+Roll no :212223110053
+
+
+Date of experiment :21/08/24
 
 
 
@@ -89,6 +91,8 @@ ret;
 
 
 ## Output  
+![add](https://github.com/user-attachments/assets/d5972ff7-b3cb-4d77-9878-054c33e3191d)
+
  
 ## Subtraction   of 8 bit numbers  ALP 
  ```
@@ -100,6 +104,8 @@ mov [6379H],al;
 ret;
 ```
 ## Output  
+![sub](https://github.com/user-attachments/assets/0301b1dc-fd7a-4b55-8328-0bc37cc15145)
+
 ## Multiplication alp 
 ```
 org 100h
@@ -111,6 +117,7 @@ MOV [6063h],bl;
 ret
 ```
  ## Output  
+![mul](https://github.com/user-attachments/assets/efb03ccf-33e7-4d70-aa52-f7f01a881b32)
 
 
 ## Division alp 
@@ -125,6 +132,8 @@ ret
 ```
 
 ## Output  
+![div](https://github.com/user-attachments/assets/98d5d330-9503-4bea-92a8-86ceb357ce2e)
+
 
 ## OR operation
 ```
@@ -136,6 +145,8 @@ OR AX,BX;
 ret
 ```
 ## Output  
+![or](https://github.com/user-attachments/assets/def4d060-8e86-4a60-9f65-9a0069a96ed6)
+
 ## AND operation
 ```
 org 100H
@@ -146,6 +157,8 @@ AND AX,BX;
 ret
 ```
 ## Output  
+![And](https://github.com/user-attachments/assets/b8e53060-4de4-4829-8d35-fa9b43bd43e1)
+
 ## XOR operation
 ```
 org 100H
@@ -156,6 +169,8 @@ XOR AX,BX;
 ret
 ```
 ## Output
+![xor](https://github.com/user-attachments/assets/32b83fa3-af0e-468d-b0d4-a185cce40f0a)
+
 ## NOT operation
 ```
 org 100H
@@ -166,6 +181,8 @@ MOV [SI+6],AX;
 ret
 ```
 ## Output
+![not](https://github.com/user-attachments/assets/f55e9adf-7b61-478c-ac57-9ac2b5c16ec0)
+
 ## Result :
 Thus, ALP for fundamental arithmetic and logical operations are executed successfully.
 
