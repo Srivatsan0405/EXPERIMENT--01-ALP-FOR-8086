@@ -137,20 +137,24 @@ ret
 ```
 ## Output  
 ## AND operation
+```
 org 100H
 MOV [SI],AX;
 MOV AX,0A32H;
 MOV BX,0B13H;
 AND AX,BX;
 ret
+```
 ## Output  
 ## XOR operation
+```
 org 100H
 MOV [SI+2],AX;
 MOV AX,0A32H;
 MOV BX,0B13H;
 XOR AX,BX;
 ret
+```
 ## Output
 ## NOT operation
 ```
